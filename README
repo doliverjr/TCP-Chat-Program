@@ -1,0 +1,24 @@
+Dakin Oliver 3pm
+
+.c Files:
+	getHostbyname.c
+	handleTable.c
+	myClient.c
+	myServer.c
+	networks.c
+	pollLib.c
+	pdu.c
+	safeUtil.c
+
+.h Files:
+	getHostbyname.h
+	handleTable.h
+	networks.h
+	pdu.h
+	pollLib.h
+	safeUtil.h
+	uthash.h
+
+uthash.h was used to create and maintain a hashtable for mapping sockets to handles.
+Created by: Troy D. Hanson
+Copyright info in utash.h file
