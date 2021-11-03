@@ -18,6 +18,8 @@ Dakin Oliver 3pm
 	pollLib.h
 	safeUtil.h
 	uthash.h
+	
+getHostbyname, networks, pollLib, and safeUtil created and provided by Hugh Smith.
 
 uthash.h was used to create and maintain a hashtable for mapping sockets to handles.
 Created by: Troy D. Hanson
